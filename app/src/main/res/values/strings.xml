@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">Quantity :</string>
+    <string name="summary">Summary :</string>
+    <string name="quantity_text_view">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="order">Order</string>
+    <string name="wip_cream">Wiped Cream! 2$</string>
+    <string name="Top">Toppings :</string>
+    <string name="choco_chip">Chocolate chip! 1$</string>
+    <string name="hint">text will be displayed here.</string>
+    <string name="hintname">Enter your name.</string>
+</resources>
